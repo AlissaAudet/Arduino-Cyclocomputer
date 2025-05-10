@@ -1,0 +1,5 @@
+﻿Nom,Quantité,Composant
+"U1",1," Arduino Uno R3"
+"S1",1," Bouton-poussoir"
+"PING1",1," Capteur de distance par ultrasons"
+"U2",1,"Rouge, 112 (0x70) Afficheur d'horloge à 7 segments"
